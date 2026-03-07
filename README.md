@@ -1,3 +1,9 @@
+TEAM DETAILS:
+Chinar Chhabria
+Trisha Sheth 
+Shreeja Brahmbhat
+Riya Parmar 
+Jay Mehta
 # ☀️ AI-Driven Solar Inverter Failure Prediction
 ### HACKaMINeD 2026 — Aubergine Datasets Track
 
