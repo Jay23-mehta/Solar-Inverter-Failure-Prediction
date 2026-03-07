@@ -322,3 +322,4 @@ Accepts a single inverter reading and returns a real-time risk prediction.
 3. Financial loss prediction
 
 Built for HACKaMINeD 2026 — Aubergine Datasets Track.
+# demo 
