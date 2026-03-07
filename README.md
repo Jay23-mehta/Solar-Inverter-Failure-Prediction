@@ -5,6 +5,7 @@ Solar inverters fail silently. By the time an operator notices reduced power out
 
 # System Architecture
 The system is divided into four independent components that work together:
+
 Component 1 — ML Prediction Model
 
 The core intelligence of the system. It analyzes historical sensor readings from inverters and learns patterns that appear before a failure. It outputs a risk score between 0 and 100 for each inverter, where higher scores indicate greater likelihood of failure.
